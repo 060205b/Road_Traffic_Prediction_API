@@ -126,4 +126,4 @@ This project is licensed under the **MIT License**.
 ## 📞 Contact  
 For questions or support, reach out via:  
 📧 **Email:** bhuvaneshwaribalaji06@gmail.com 
-🐙 **GitHub:** [your-username](https://github.com/060205b)  
+🐙 **GitHub:** [GitHub Profile](https://github.com/060205b)  
